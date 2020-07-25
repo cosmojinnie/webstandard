@@ -1,0 +1,307 @@
+{
+  "ftp://cosmojinnie.dothome.co.kr:21@cosmojinnie": {
+    "html": {
+      ".htaccess": {
+        "type": "-",
+        "size": 162,
+        "lmtime": 0,
+        "modified": false
+      },
+      "favicon.ico": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "setup-finish.html": {
+        "type": "-",
+        "size": 293,
+        "lmtime": 0,
+        "modified": false
+      },
+      "web": {
+        ".vscode": {
+          "ftp-kr.task.json": {
+            "type": "-",
+            "size": 1292,
+            "lmtime": 1585377718902,
+            "modified": false
+          }
+        },
+        "css": {
+          "lightgallery.css": {
+            "type": "-",
+            "size": 24607,
+            "lmtime": 1585378971284,
+            "modified": false
+          },
+          "reset.css": {
+            "type": "-",
+            "size": 2043,
+            "lmtime": 1585311540921,
+            "modified": false
+          },
+          "slick.css": {
+            "type": "-",
+            "size": 1702,
+            "lmtime": 1585378877218,
+            "modified": false
+          },
+          "style.css": {
+            "type": "-",
+            "size": 17521,
+            "lmtime": 1585376966460,
+            "modified": false
+          }
+        },
+        "fonts": {
+          "lg.eot": {
+            "type": "-",
+            "size": 4024,
+            "lmtime": 1585378264508,
+            "modified": false
+          },
+          "lg.svg": {
+            "type": "-",
+            "size": 8858,
+            "lmtime": 1585378264507,
+            "modified": false
+          },
+          "lg.ttf": {
+            "type": "-",
+            "size": 3880,
+            "lmtime": 1585378264509,
+            "modified": false
+          },
+          "lg.woff": {
+            "type": "-",
+            "size": 3956,
+            "lmtime": 1585378264507,
+            "modified": false
+          }
+        },
+        "img": {
+          "banner_link1.jpg": {
+            "type": "-",
+            "size": 39317,
+            "lmtime": 1585378123421,
+            "modified": false
+          },
+          "banner_link2.jpg": {
+            "type": "-",
+            "size": 34882,
+            "lmtime": 1585378123420,
+            "modified": false
+          },
+          "banner_link3.jpg": {
+            "type": "-",
+            "size": 33673,
+            "lmtime": 1585378123419,
+            "modified": false
+          },
+          "dot.gif": {
+            "type": "-",
+            "size": 1097,
+            "lmtime": 1585378123419,
+            "modified": false
+          },
+          "gallery01.jpg": {
+            "type": "-",
+            "size": 107816,
+            "lmtime": 1585378123418,
+            "modified": false
+          },
+          "gallery02.jpg": {
+            "type": "-",
+            "size": 52413,
+            "lmtime": 1585378123416,
+            "modified": false
+          },
+          "gallery03.jpg": {
+            "type": "-",
+            "size": 44965,
+            "lmtime": 1585378123414,
+            "modified": false
+          },
+          "gallery04.jpg": {
+            "type": "-",
+            "size": 130132,
+            "lmtime": 1585378123413,
+            "modified": false
+          },
+          "gallery05.jpg": {
+            "type": "-",
+            "size": 103332,
+            "lmtime": 1585378123411,
+            "modified": false
+          },
+          "header_bg.jpg": {
+            "type": "-",
+            "size": 64537,
+            "lmtime": 1585378123409,
+            "modified": false
+          },
+          "icon.png": {
+            "type": "-",
+            "size": 61151,
+            "lmtime": 1585378123407,
+            "modified": false
+          },
+          "icon@2.png": {
+            "type": "-",
+            "size": 92597,
+            "lmtime": 1585378123404,
+            "modified": false
+          },
+          "nav_bg.png": {
+            "type": "-",
+            "size": 15258,
+            "lmtime": 1585378123401,
+            "modified": false
+          },
+          "notice01.jpg": {
+            "type": "-",
+            "size": 5215,
+            "lmtime": 1585378123399,
+            "modified": false
+          },
+          "notice02.jpg": {
+            "type": "-",
+            "size": 5147,
+            "lmtime": 1585378123398,
+            "modified": false
+          },
+          "notice03.jpg": {
+            "type": "-",
+            "size": 6246,
+            "lmtime": 1585378123396,
+            "modified": false
+          },
+          "notice04.jpg": {
+            "type": "-",
+            "size": 8374,
+            "lmtime": 1585378123394,
+            "modified": false
+          },
+          "sban01.jpg": {
+            "type": "-",
+            "size": 14643,
+            "lmtime": 1585378123393,
+            "modified": false
+          },
+          "sban02.jpg": {
+            "type": "-",
+            "size": 15383,
+            "lmtime": 1585378123391,
+            "modified": false
+          },
+          "sban03.jpg": {
+            "type": "-",
+            "size": 9920,
+            "lmtime": 1585378123388,
+            "modified": false
+          },
+          "sban04.jpg": {
+            "type": "-",
+            "size": 13565,
+            "lmtime": 1585378123387,
+            "modified": false
+          },
+          "sban05.jpg": {
+            "type": "-",
+            "size": 10587,
+            "lmtime": 1585378123384,
+            "modified": false
+          },
+          "sban06.jpg": {
+            "type": "-",
+            "size": 8817,
+            "lmtime": 1585378123382,
+            "modified": false
+          },
+          "sban07.jpg": {
+            "type": "-",
+            "size": 16014,
+            "lmtime": 1585378123380,
+            "modified": false
+          },
+          "sban08.jpg": {
+            "type": "-",
+            "size": 16919,
+            "lmtime": 1585378123378,
+            "modified": false
+          },
+          "sban09.jpg": {
+            "type": "-",
+            "size": 9283,
+            "lmtime": 1585378123376,
+            "modified": false
+          },
+          "webstandard1.jpg": {
+            "type": "-",
+            "size": 680626,
+            "lmtime": 1585378123374,
+            "modified": false
+          },
+          "webstandard2.jpg": {
+            "type": "-",
+            "size": 534844,
+            "lmtime": 1585378123363,
+            "modified": false
+          },
+          "webstandard3.jpg": {
+            "type": "-",
+            "size": 615069,
+            "lmtime": 1585378123352,
+            "modified": false
+          }
+        },
+        "index.html": {
+          "type": "-",
+          "size": 31108,
+          "lmtime": 1585385105153,
+          "modified": false
+        },
+        "js": {
+          "costom.js": {
+            "type": "-",
+            "size": 2533,
+            "lmtime": 1585380235128,
+            "modified": false
+          },
+          "jquery.min_1.12.4.js": {
+            "type": "-",
+            "size": 97163,
+            "lmtime": 1585377939347,
+            "modified": false
+          },
+          "lightgallery-all.min.js": {
+            "type": "-",
+            "size": 49750,
+            "lmtime": 1585378192602,
+            "modified": false
+          },
+          "lightgallery.min.js": {
+            "type": "-",
+            "size": 24552,
+            "lmtime": 1585378230402,
+            "modified": false
+          },
+          "slick.min.js": {
+            "type": "-",
+            "size": 42863,
+            "lmtime": 1585378221379,
+            "modified": false
+          }
+        },
+        "popup.html": {
+          "type": "-",
+          "size": 635,
+          "lmtime": 1585374753081,
+          "modified": false
+        }
+      }
+    }
+  },
+  "$version": 1
+}
